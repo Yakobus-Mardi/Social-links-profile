@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Yakobus-Mardi/Social-links-profile)
+- Live Site URL: [Preview](https://yakobus-mardi.github.io/Social-links-profile/)
 
 ## My process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Yakobus-Mardi](https://www.frontendmentor.io/profile/Yakobus-Mardi)
 - X / Twitter - [@fincodewiz](https://www.twitter.com/fincodewiz)
