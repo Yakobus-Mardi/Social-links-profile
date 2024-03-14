@@ -1,0 +1,90 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(0 0% 8%);
+  color: hsl(0 0% 100%);
+  font-family: "Inter", sans-serif;
+  display: grid;
+  height: 100dvh;
+  place-items: center;
+}
+
+header {
+  text-align: center;
+
+  & div img {
+    width: 80px;
+    border-radius: 50%;
+    margin-bottom: 1.3rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  & p {
+    color: hsl(75 94% 57%);
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    margin-bottom: 1.2rem;
+  }
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+
+  & p {
+    font-size: 0.9rem;
+  }
+}
+
+button {
+  background-color: hsl(0 0% 20%);
+  color: inherit;
+  font-family: inherit;
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+  padding: 1rem;
+  cursor: pointer;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.fem-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+
+  & .fem-logo-img {
+    width: 14px;
+  }
+}
+
+.wrapper {
+  background-color: hsl(0 0% 12%);
+  width: 100%;
+  max-width: 400px;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
